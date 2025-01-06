@@ -1,19 +1,23 @@
 {
   "name": "logk",
   "version": "1.0.0",
-  "description": "",
+  "description": "Module for create logs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lukeehz/logk.git"
+    "url": "git+https://github.com/lukeehz/logk.git"
   },
-  "author": "",
+  "keywords": [
+    "log",
+    "logk"
+  ],
+  "author": "lukeehz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lukeehz/logk/issues"
+    "url": "https://github.com/lukeehz/logk/issues"
   },
-  "homepage": "https://github.com/Lukeehz/logk#readme"
+  "homepage": "https://github.com/lukeehz/logk#readme"
 }
